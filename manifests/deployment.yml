@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: bhanutejanewdotnet 
-          image: bhanu.azurecr.io/bhanutejanewdotnet
+          image: azurecontainregistry.azurecr.io/dotimage:latest
           ports:
           - containerPort: 8080
